@@ -9,7 +9,7 @@
 
 // Priority for Code readability should be high
 
-let name = "hasan" //Satring
+let name = "hasan" //String
 
 let age = 24 // number
 
